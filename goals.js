@@ -38,7 +38,7 @@ mediumGoals = [
 ]
 
 hardGoals = [
-"Diaper Telleporter|diaper|Must be an intentional diaper",
+"Diaper Teleporter|diaper|Must be an intentional diaper",
 "Rocket/Sticky Jumper|jumper",
 "Disposible Sentry|disposiblesentry",
 "Cheater/Hacker|cheater",

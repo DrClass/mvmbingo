@@ -43,7 +43,7 @@ hardGoals = [
 "Disposible Sentry|disposiblesentry",
 "Cheater/Hacker|cheater",
 "Airblast Griefing|griefingairblast|Pushing bots forwards or busters into teammates",
-"Auto F4 script,f4script",
+"Auto F4 script|f4script",
 "Super Scout bomb cap|superscoutcap",
 "Crit sticky spammer|critsticks",
 "Fall damage death|falldamage|Someone on the team dies to fall damage",
